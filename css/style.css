@@ -1,0 +1,8 @@
+form h3 {
+	font-size: 40px;
+}
+
+form button[name=cadastrar_livro] {
+	margin-top: 30px;
+}
+
